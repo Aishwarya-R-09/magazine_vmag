@@ -1,0 +1,192 @@
+.boxy{
+  width: 100px;
+  height: 650px;
+  border: 10px solid white;
+  border-radius:40px;
+  color: white;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height: 55%;
+}
+.toxy{
+  text-align: center;
+}
+.doxy {
+   display: inline;
+   margin-right: 20px;
+}
+.ioxy{
+  border: 5px solid #662200;
+  float:left;
+}
+.iioxy{
+  border: 5px solid black;
+  float:right;
+}
+.moxy{
+  background-image: url("http://www.arischonbrun.com/wp-content/uploads/2017/06/Potatoes-Eggs-And-Coffee-Beans.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 520px;
+}
+.mmoxy{
+  background-image: url("https://www.wonderopolis.org/wp-content/uploads/2011/12/think-outside-box_shutterstock_81177457.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 520px;
+}
+.zz{
+  background-color: #dcdcde;
+
+}
+#xbtn{
+  color: white;
+}
+#lel{
+  font-family: 'Libre Baskerville', serif;
+}
+#sce{
+  font-family: 'Dosis', sans-serif;
+  font-size: 26px;
+}
+#col{
+  color: #E63462;
+}
+#cen{
+  text-align: center;
+}
+#siz{
+  font-size: 20px;
+}
+#a{
+background:#007090;
+}
+#b{
+background:  #a3bac3;
+}
+#c{
+background:  #01a7c2;
+}
+#apple{
+background: #FF8A80;
+}
+#orange{
+background: #FF854B;
+}
+#mango{
+background: #FF5959;
+}
+#banana{
+background: #f95738;
+}
+#loll{
+    background-image: url("https://i.pinimg.com/originals/f2/46/8a/f2468ae86b918974ba41e302e0310705.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    height: 550px;
+}
+#one{
+  background: #FF8A80;
+}
+#two{
+  background: #FF854B;
+}
+#three{
+  background: #FF5959;
+}
+#four{
+  font-size: 20px;
+}
+#five{
+  background-image: url("https://www.maxpixel.net/static/photo/1x/Woods-Typing-Laptop-Keyboard-Aesthetic-Hands-2592785.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  height: 550px;
+}
+#six{
+  font-size: 63px;
+  font-family: 'Dancing Script', cursive;
+}
+#lol{
+font-size: 30px;
+font-family: 'Dancing Script', cursive;
+}
+#seven{
+  text-align: right;
+}
+#eight{
+  font-size: 20px;
+}
+#nine{
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#food{
+  border-radius: 20px;
+}
+#btn{
+ margin-top: 10px;
+ /* margin-bottom: 100px; */
+ margin-right: 160px;
+ margin-left: 125px;
+ background-color: white;
+ border-radius: 20px;
+ color: #E63462;
+}
+#exampleModalLabel{
+  margin-top: 10px;
+  /* margin-bottom: 100px; */
+  margin-right: 100px;
+  margin-left: 150px;
+  color: white;
+}
+#fade{
+  background: #E63462;
+  border-radius: 30px;
+}
+#inputPassword{
+  margin-left: 33px;
+  border-radius: 25px;
+  text-align: center;
+  border: 2px solid white;
+}
+#staticEmail{
+  margin-left: 33px;
+  border-radius: 25px;
+  text-align: center;
+  border: 2px solid white;
+}
+#inputFirst{
+  margin-left: 33px;
+  border-radius: 25px;
+  text-align: center;
+  border: 2px solid white;
+}
+#inputLast{
+  margin-left: 33px;
+  border-radius: 25px;
+  text-align: center;
+  border: 2px solid white;
+}
+#mami{
+  color: white;
+  text-align: center;
+}
+#blah{
+  width:100%;
+  height:85%;
+  /* max-width:180px; */
+}
+input[type=file]
+{
+padding:10px;
+}
